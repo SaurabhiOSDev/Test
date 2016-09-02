@@ -1,2 +1,2 @@
 # Test
-learning github
+learning github is easy.
